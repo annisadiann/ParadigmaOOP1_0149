@@ -17,7 +17,7 @@ int main() { //agregrasi
 	varibu2->tambahAnak(varAnak1);
 
 	varIbu->cetakAnak();
-	varibu2->cetakAnak();
+	varibu2->cetakAnak(); 
 
 	delete varIbu;
 	delete varibu2;
