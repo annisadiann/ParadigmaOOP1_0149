@@ -10,7 +10,7 @@ public:
 		cout << "Anak \"" << nama << "\" tidak ada\n";
 	}
 	~anak() {
-		cout << "Anak \"" << nama << "\" tidak ada\n";
+		cout << "Anak \"" << nama << "\" tidak ada\n"; 
 	}
 };
 #endif
